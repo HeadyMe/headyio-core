@@ -1,0 +1,12 @@
+{
+  "name": "HeadyIO",
+  "tagline": "Developer SDK & IO",
+  "description": "The official SDK for building on the Heady platform — Hive SDK, Sacred Geometry SDK, and MCP client tools.",
+  "accent": "#e879f9",
+  "features": [
+    {"icon": "📦", "title": "Hive SDK", "desc": "Core SDK for building Heady-native applications"},
+    {"icon": "🔮", "title": "Sacred Geometry SDK", "desc": "PHI-based orchestration primitives"},
+    {"icon": "🔧", "title": "MCP Client", "desc": "Connect any IDE to the Heady MCP server"},
+    {"icon": "📚", "title": "Documentation", "desc": "Comprehensive guides and API reference"}
+  ]
+}
